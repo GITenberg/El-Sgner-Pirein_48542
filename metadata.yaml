@@ -1,0 +1,41 @@
+_repo: El-Sgner-Pirein_48542
+contributor:
+  commentator:
+    agent_name: Guerrini, Olindo
+    aliases:
+    - Sbolenfi, Argia
+    - Balossardi, Marco
+    - Stecchetti, Lorenzo
+    birthdate: 1845
+    deathdate: 1916
+    gutenberg_agent_id: '7644'
+    url: http://www.gutenberg.org/2009/agents/7644
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Olindo_Guerrini
+    - http://it.wikipedia.org/wiki/Olindo_Guerrini
+  creator:
+    editor:
+      agent_name: Trebbi, Oreste
+      gutenberg_agent_id: '44846'
+      url: http://www.gutenberg.org/2009/agents/44846
+  illustrator:
+    agent_name: Majani, Augusto
+    gutenberg_agent_id: '44847'
+    url: http://www.gutenberg.org/2009/agents/44847
+creator:
+  author:
+    agent_name: Fiacchi, Antonio
+    gutenberg_agent_id: '44845'
+    url: http://www.gutenberg.org/2009/agents/44845
+description: ''
+gutenberg_bookshelf: IT Umorismo
+gutenberg_issued: '2015-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48542'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Èl Sgner Pirein
+url: http://www.gutenberg.org/ebooks/48542
