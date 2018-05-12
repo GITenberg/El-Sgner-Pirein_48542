@@ -1,4 +1,5 @@
 _repo: El-Sgner-Pirein_48542
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Guerrini, Olindo
@@ -22,12 +23,17 @@ contributor:
     agent_name: Majani, Augusto
     gutenberg_agent_id: '44847'
     url: http://www.gutenberg.org/2009/agents/44847
+covers:
+- cover_type: archival
+  image_path: 48542-h/images/cover.jpg
 creator:
   author:
     agent_name: Fiacchi, Antonio
     gutenberg_agent_id: '44845'
     url: http://www.gutenberg.org/2009/agents/44845
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48542#El-Sgner-Pirein
 gutenberg_bookshelf: IT Umorismo
 gutenberg_issued: '2015-03-21'
 gutenberg_type: Text
